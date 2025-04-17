@@ -1,0 +1,24 @@
+## Requirements
+
+1. **Data Loading**: Load in an initial set
+of todos from this sample json server
+https://github.com/typicode/json-server
+
+2. **Pagination**: Implement pagination in
+the front end to read 5 todos at a time from
+the mock json server, with paging to get the
+next 5, or previous 5
+https://github.com/typicode/json-server?tab=readme-ov-file#paginate
+
+3. **CRUD Operations**: Allow users to perform
+CRUD on the Todos; I.e edit the todos grabbed
+from the json server, delete them, and create
+new ones ( do not need to write to the json server)
+
+4. **No Backend Persistence**: Changes should not
+be saved to the server
+
+### Optional
+
+5. **UI Components**: Use some component library for
+clean interface
