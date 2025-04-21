@@ -1,9 +1,7 @@
-import { TodoList } from "./features/index.ts";
+import { TodoList } from './features/index.ts';
 
 function App() {
-  return (
-    <TodoList />
-  );
+  return <TodoList />;
 }
 
 export default App;
