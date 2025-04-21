@@ -2,63 +2,51 @@
   "todos": [
     {
       "id": 1,
-      "text": "Learn React",
-      "completed": false
+      "text": "Learn React"
     },
     {
       "id": 2,
-      "text": "Build a ToDo app",
-      "completed": false
+      "text": "Build a ToDo app"
     },
     {
       "id": 3,
-      "text": "Write documentation",
-      "completed": false
+      "text": "Write documentation"
     },
     {
       "id": 4,
-      "text": "Test the application",
-      "completed": false
+      "text": "Test the application"
     },
     {
       "id": 5,
-      "text": "Fix bugs",
-      "completed": false
+      "text": "Fix bugs"
     },
     {
       "id": 6,
-      "text": "Refactor code",
-      "completed": false
+      "text": "Refactor code"
     },
     {
       "id": 7,
-      "text": "Learn React Query",
-      "completed": false
+      "text": "Learn React Query"
     },
     {
       "id": 8,
-      "text": "Build a feature",
-      "completed": false
+      "text": "Build a feature"
     },
     {
       "id": 9,
-      "text": "Test the feature",
-      "completed": false
+      "text": "Test the feature"
     },
     {
       "id": 10,
-      "text": "Deploy the app",
-      "completed": false
+      "text": "Deploy the app"
     },
     {
       "id": 11,
-      "text": "Update documentation",
-      "completed": false
+      "text": "Update documentation"
     },
     {
       "id": 12,
-      "text": "Review code",
-      "completed": false
+      "text": "Review code"
     }
   ]
 }
